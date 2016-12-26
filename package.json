@@ -1,0 +1,24 @@
+{
+  "name": "hometalk-git-merge",
+  "version": "1.0.0",
+  "description": "Hometalk Git Merge",
+  "main": "ht-merge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbabaioff/hometalk-git-merge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbabaioff/hometalk-git-merge/issues"
+  },
+  "homepage": "https://github.com/dbabaioff/hometalk-git-merge#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "inquirer": "^2.0.0",
+    "request": "^2.79.0"
+  }
+}
